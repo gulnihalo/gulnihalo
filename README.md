@@ -30,4 +30,4 @@
 
 
 
-https://github.com/{{gulonihalo}}/{{gulnihalo}}/blob/output/github-contribution-grid-snake.svg
+https://github.com/{{gulnihalo}}/{{gulnihalo}}/blob/output/github-contribution-grid-snake.svg
