@@ -29,6 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulnihalo&show_icons=true&locale=en" alt="gulnihalo" /></p>
 
 
-<img src="https://raw.githubusercontent.com/gulnihalo/gulnihalo/output/snake.svg" alt="Snake animation" />
 
-###
+https://github.com/{{gulonihalo}}/{{gulnihalo}}/blob/output/github-contribution-grid-snake.svg
