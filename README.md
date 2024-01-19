@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulnihalo&show_icons=true&locale=en" alt="gulnihalo" /></p>
 
-![snake animation](https://github.com/gulnihalo/gulnihalo/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/gulnihalo/gulnihalo/blob/output/github-contribution-grid-snake.gif)
